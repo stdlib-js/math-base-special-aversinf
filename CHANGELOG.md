@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`0011f59`](https://github.com/stdlib-js/stdlib/commit/0011f59245c1d2548c05e443aa39cde998ef0538) - **test:** migrate `math/base/special/aversinf` to ULP difference testing [(#13772)](https://github.com/stdlib-js/stdlib/pull/13772) _(by Arjan-P)_
 -   [`9229dd7`](https://github.com/stdlib-js/stdlib/commit/9229dd78fa82c5f863dbc51a9588314d53a97c44) - **bench:** refactor to use string interpolation in `math/base/special` [(#11386)](https://github.com/stdlib-js/stdlib/pull/11386) _(by Karan Anand)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Arjan-P
 -   Karan Anand
 
 </section>
